@@ -1,0 +1,19 @@
+{
+  "_comment": "Fill in the empty values below, then run `node build.mjs`. Empty values are shown on the website as clearly marked [placeholders].",
+  "siteUrl": "https://jpond.org",
+  "phone": "",
+  "email": "",
+  "whatsapp": "",
+  "facebook": "",
+  "contactPerson": "Satyendra Yadav",
+  "contactPersonTitle": "",
+  "swcAffiliationNo": "",
+  "panNo": "",
+  "familiesServed": "",
+  "amountRaisedNpr": "",
+  "fundraisingGoalNpr": "5000000",
+  "goalUsdApprox": "",
+  "giftNpr1000": "",
+  "formEndpoint": "",
+  "turnstileSiteKey": ""
+}

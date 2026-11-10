@@ -1,0 +1,12 @@
+{
+  "name": "JPOND – Janakpur Parents' Organisation for Neurodevelopmental Disabilities",
+  "short_name": "JPOND",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fbf7ef",
+  "theme_color": "#0f5e63",
+  "icons": [
+    { "src": "/assets/img/logo-mark.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
